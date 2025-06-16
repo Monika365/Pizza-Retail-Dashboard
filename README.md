@@ -17,6 +17,7 @@ This allows stakeholders to make data-driven decisions for growth and optimizati
 
 🗂️ Dataset Information
 Source: Pizza Sales Transactional Dataset (CSV / SQL Database)
+![csvfile](https://github.com/Monika365/Pizza_Retail_Dashboard/blob/main/pizza_sales.csv)
 
 Key Fields:
 
@@ -101,10 +102,12 @@ Filters: Interactive slicers for pizza category, size, region, and date range.
 Here Is My Dashboard
 Homepage
 You can view the main dashboard homepage here. 
-![Home_preview]https://github.com/Monika365/Pizza_Retail_Dashboard/blob/main/PizzaSalesHome.png
+
+![Home_preview](https://github.com/Monika365/Pizza_Retail_Dashboard/blob/main/PizzaSalesHome.png)
 
 Best/Worst Sellers
 View the best and worst sellers dashboard here.
+
 ![best/worst_preview](https://github.com/Monika365/Pizza_Retail_Dashboard/blob/main/Best%26worst.png)
 
 

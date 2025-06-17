@@ -2,7 +2,7 @@
  The goal of this project is to create an annual sales report for a pizza store using sales data from 2015, helping the owner understand customer behavior and sales trends to inform business decisions and future growth strategies
  
 ### 1.	🍕 Pizza Sales Analytics: Power BI Dashboard
-A dynamic, interactive data visualization dashboard designed to analyze and monitor pizza sales performance using SQL and Power BI—focusing on sales trends, product breakdowns, and actionable business insights.
+A dynamic, interactive data visualisation dashboard designed to analyse and monitor pizza sales performance using SQL and Power BI—focusing on sales trends, product breakdowns, and actionable business insights.
 ### 2.	 Purpose
 The Pizza Sales Analytics Dashboard is a visually engaging Power BI report that empowers users to explore, analyze, and compare pizza sales data from a full year of transactions. The dashboard highlights key metrics such as revenue, order trends, product performance, and customer preferences, enabling restaurant managers, analysts, and business owners to make informed decisions and optimize their strategies
 

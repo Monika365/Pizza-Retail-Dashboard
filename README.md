@@ -26,8 +26,17 @@ The dashboard was built using the following tools and technologies:
 ### 4.	Data Source
 Source: Pizza sales data for the year 2015, provided as a CSV file and imported into SQL Server.
 
-The dataset includes over 48,000 rows of pizza sales transactions.
-![csvfile](https://github.com/Monika365/Pizza_Retail_Dashboard/blob/main/pizza_sales.csv)
+### 📂 Dataset Overview  
+[![CSV File](https://img.shields.io/badge/View_Dataset-pizza_sales.csv-orange)](https://github.com/Monika365/Pizza_Retail_Dashboard/blob/main/pizza_sales.csv)
+
+This project is powered by a rich dataset containing **48,000+ rows** of pizza sales transactions 🍕📊—capturing real-world retail operations in detail.
+
+- Covers order dates, pizza types, sizes, quantities, and revenue.
+- Provides the foundation for uncovering trends in sales performance, customer preferences, and seasonal demand.
+- Perfect for time series analysis, KPI tracking, and building end-to-end BI solutions.
+
+> Dive into the data [here](https://github.com/Monika365/Pizza_Retail_Dashboard/blob/main/pizza_sales.csv) and explore what’s driving those pizza profits!
+
 
 Key fields: pizza_id, order_id, pizza_name_id, quantity, order_date, order_time, unit_price, total_price, pizza_size, pizza_category, pizza_name, and ingredients.
 

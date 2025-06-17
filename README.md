@@ -38,6 +38,7 @@ Data was cleaned and structured in SQL Server before being loaded into Power BI 
 ### 5.	Highlights
 
 •	Business Problem
+
 Pizza restaurants accumulate vast amounts of transactional data, yet often lack effective tools to transform this information into actionable business insights. Key questions such as:
 
 Which products generate the highest revenue? Identifying top-performing menu items is essential for optimizing offerings and maximizing profitability.

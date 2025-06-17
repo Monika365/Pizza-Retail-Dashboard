@@ -35,15 +35,19 @@ Data was cleaned and structured in SQL Server before being loaded into Power BI 
 
 
 
-### 5.	Features / Highlights
+### 5.	Highlights
 Pizza restaurants generate large volumes of transactional data, but lack intuitive tools to extract actionable insights on sales trends, best/worst sellers, and customer preferences. Key questions such as:
 
-Which products drive the most revenue?
+•	Business Problem
+Pizza restaurants accumulate vast amounts of transactional data, yet often lack effective tools to transform this information into actionable business insights. Without intuitive analytics, it becomes challenging to quickly answer critical questions such as:
 
-What are the busiest times and days?
+Which products generate the highest revenue? Identifying top-performing menu items is essential for optimizing offerings and maximizing profitability.
 
-Which pizza sizes and categories are most popular?
-… are difficult to answer quickly with raw data.
+What are the busiest times and days for sales? Understanding peak periods helps with efficient staff scheduling, inventory planning, and targeted promotions.
+
+Which pizza sizes and categories are most popular among customers? Analyzing preferences by size and type enables better menu design and marketing strategies.
+
+These key questions are difficult to address using raw, unstructured data alone, highlighting the need for a comprehensive dashboard that delivers clear, data-driven insights
 
 •	Goal of the Dashboard
 To deliver an interactive, visual tool that:
@@ -67,33 +71,33 @@ Total Orders
 
 Average Pizzas per Order
 
-Order Trend Visuals
+•	Order Trend Visuals
 
 Daily Trend: Bar chart showing total orders per day.
 
 Monthly Trend: Line chart visualizing monthly order patterns.
 
-Sales Breakdown
+•	Sales Breakdown
 
 Donut Charts: Percentage of sales by pizza category and by pizza size.
 
 Funnel Chart: Total pizzas sold by category.
 
-Best & Worst Seller Analysis
+•	Best & Worst Seller Analysis
 
 Bar Charts: Top 5 and bottom 5 pizzas by revenue, quantity, and orders.
 
-Interactive Filters
+•	Interactive Filters
 
 Slicers for pizza category and order date.
 
 Action filters for dynamic drill-downs by day, product, or size.
 
-Navigation
+•	Navigation
 
 Buttons to switch between main dashboard and best/worst seller pages.
 
-- Business Impact & Insights
+•	 Business Impact & Insights
 Menu Optimization: Identify top and underperforming pizzas to refine offerings.
 
 Marketing Focus: Target promotions based on peak sales periods and popular products.

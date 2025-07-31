@@ -1,4 +1,4 @@
-# Pizza_Retail_Dashboard
+# Pizza-Retail-Dashboard
  The goal of this project is to create an annual sales report for a pizza store using sales data from 2015, helping the owner understand customer behavior and sales trends to inform business decisions and future growth strategies
  
 ### 1.	🍕 Pizza Sales Analytics: Power BI Dashboard
